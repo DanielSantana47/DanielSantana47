@@ -1,7 +1,9 @@
 ### Salve, Daniel aqui!!!
 #
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=DanielSantana47&show_icons=true&theme=tokyonight"/>
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantana47&layout=compact&theme=tokyonight"/>
+<div>
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=DanielSantana47&show_icons=true&theme=blueberry"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantana47&layout=compact&theme=blueberry"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

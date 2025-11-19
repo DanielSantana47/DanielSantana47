@@ -1,20 +1,49 @@
-### Salve !!!
-#
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dnaiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dnaiel-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Salve 👋</h1></summary>
+    <p>Me chamo Daniel, sou desenvolvedor web full stack e um grande apaixonado por tecnologia. Atualmente estou explorando conceitos avançados de backend nas tecnologias de NodeJS e SQL. Busco evoluir constantemente através de projetos práticos, desafios e aprendizados contínuos, sempre motivado a aprender mais sobre esse vasto universo Tech.</p>
+  </ul>
 </div>
+#
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stacks 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,tailwind,js,ts,html,css&perline=10" />
+  </a>
+</p>
   
   ##
- 
-<div> 
-  <a href="https://instagram.com/daniell.santana_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danielsantanachastel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
 </div>
 
-![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/danielsantanadev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/daniell.santana_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>  
+</p>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GitHub Analytics ⚙️</h2></summary>
+  </ul>
+</div>
+<p align="center">
+<a href="https://github.com/DanielSantana47">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielSantana47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielSantana47&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
